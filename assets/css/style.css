@@ -1,0 +1,16 @@
+:root {
+    box-decoration-break: ;
+}
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: blanchedalmond;
+    align-items: center;
+    justify-content: space-around;
+}
+ p {
+    color: azure;
+    align-items: center;
+ }
